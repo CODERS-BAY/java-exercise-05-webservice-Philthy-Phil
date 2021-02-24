@@ -47,4 +47,13 @@ public class Fruit {
 		return false;
 
 	}
+
+	public String getColor() {
+		return color;
+	}
+
+	public String getVariety() {
+		return variety;
+	}
+
 }
